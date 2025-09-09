@@ -9,11 +9,13 @@
 		<PackageId>AudioApi</PackageId>
 		<Authors>Ben Sowieja</Authors>
 		<Description>Minimal, high-level C# audio API for device enumeration, master volume, capture (mic/loopback), and playback. Powered by NAudio.</Description>
+		
 		<PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
 		<PackageLicenseExpression>MIT</PackageLicenseExpression>
 		<RepositoryUrl>https://github.com/yourorg/AudioApi</RepositoryUrl>
 		<RepositoryType>git</RepositoryType>
 		<PackageProjectUrl>https://github.com/yourorg/AudioApi</PackageProjectUrl>
+		
 		<PackageTags>audio;naudio;wasapi;capture;loopback;playback;volume</PackageTags>
 		<IncludeSymbols>true</IncludeSymbols>
 		<SymbolPackageFormat>snupkg</SymbolPackageFormat>
