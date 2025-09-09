@@ -12,9 +12,9 @@
 		
 		<PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
 		<PackageLicenseExpression>MIT</PackageLicenseExpression>
-		<RepositoryUrl>https://github.com/yourorg/AudioApi</RepositoryUrl>
+		<RepositoryUrl>https://github.com/TristanAtze/AudioApi</RepositoryUrl>
 		<RepositoryType>git</RepositoryType>
-		<PackageProjectUrl>https://github.com/yourorg/AudioApi</PackageProjectUrl>
+		<PackageProjectUrl>https://github.com/TristanAtze/AudioApi</PackageProjectUrl>
 		
 		<PackageTags>audio;naudio;wasapi;capture;loopback;playback;volume</PackageTags>
 		<IncludeSymbols>true</IncludeSymbols>
