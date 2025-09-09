@@ -26,15 +26,15 @@
 		<Deterministic>true</Deterministic>
 		<GeneratePackageOnBuild>true</GeneratePackageOnBuild>
 	</PropertyGroup>
+	<ItemGroup>
+	  <Compile Remove=".github\**" />
+	  <EmbeddedResource Remove=".github\**" />
+	  <None Remove=".github\**" />
+	</ItemGroup>
 
 
 	<ItemGroup>
 		<PackageReference Include="NAudio" Version="2.2.1" />
 		<PackageReference Include="Microsoft.SourceLink.GitHub" Version="8.0.0" PrivateAssets="All" />
-	</ItemGroup>
-
-
-	<ItemGroup>
-	  <None Include=".github\workflows\nuget-autopublish.yml" />
 	</ItemGroup>
 </Project>
