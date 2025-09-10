@@ -80,7 +80,7 @@ recorder.Stop();
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
-Feel free to open a PR or issue on [GitHub](https://github.com/yourusername/AudioApi).
+Feel free to open a PR or issue on [GitHub](https://github.com/TristanAtze/AudioApi).
 
 ## 📜 License
 
